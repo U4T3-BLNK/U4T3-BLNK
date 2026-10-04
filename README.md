@@ -61,8 +61,8 @@ $ neofetch --ascii_distro arch --override
 
 | Repository | Description | Technologies | Status |
 | :--- | :--- | :--- | :--- |
-| [**MemeSense-For-Linux**](https://github.com/U4T3-BLNK/MemeSense-For-Linux) | Projeto independente focado na comunidade de CS2 no Linux. | `Linux` `CS2` `Open Source` | ⚙️ In Development |
 | [**Modern Web Interfaces**](#) | Interfaces imersivas, design minimalista e experiências web interativas. | `HTML5` `CSS3` `TypeScript` | 🚀 Active |
+| [**Linux System Utilities**](#) | Scripts, automações e customizações para ambientes Linux. | `Bash` `Shell` `Linux` | ⚙️ In Development |
 
 ### 🐍 Contribution Activity (Snake Game)
 
