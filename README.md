@@ -8,15 +8,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header" width="100%"/>
 </p>
 
-```bash
-$ neofetch --ascii_distro arch --override
-  OS: Linux (Dark Kernel)
-  Host: generic
-  Uptime: Infinite
-  Focus: Modern Web & System Internals
-  Languages: JavaScript, TypeScript, HTML5, CSS3, Bash
-  State: Infiltrating the shadows / Compiling ideas
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/U4T3-BLNK/U4T3-BLNK/main/assets/lavat.gif" alt="Terminal Lavat Simulation" width="100%" style="border-radius: 8px; border: 1px solid #222;" />
+</p>
 
 <details>
   <summary><b>👁️ System Info / Dossier</b></summary>
@@ -30,9 +24,9 @@ $ neofetch --ascii_distro arch --override
 
 <br/>
 
-<div align="left">
+<div align="center">
 
-[![Linux](https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=white&borderColor=222222)](https://kernel.org)
+[![Linux](https://img.shields.io/badge/OS-Fedora%20Linux-000000?style=for-the-badge&logo=fedora&logoColor=white&borderColor=222222)](https://getfedora.org)
 [![Git](https://img.shields.io/badge/VCS-Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-generic-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/U4T3-BLNK)
 
