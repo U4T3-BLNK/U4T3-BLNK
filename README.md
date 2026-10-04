@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=620&lines=%E2%8A%B9+U4T3-BLNK+%E2%8A%B9;Initializing+environment...;Web+Development+%26+Linux+Systems;Exploring+the+depths+of+code;Welcome+to+the+void." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FFFFFF&center=true&vCenter=true&random=false&width=620&lines=%E2%8A%B9+generic+%E2%8A%B9;Initializing+environment...;Web+Development+%26+Linux+Systems;Exploring+the+depths+of+code;Welcome+to+the+void." alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,12 +8,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header" width="100%"/>
 </p>
 
-<img align="right" alt="U4T3-BLNK" width="220px" src="https://raw.githubusercontent.com/U4T3-BLNK/U4T3-BLNK/main/assets/avatar.png" style="border-radius: 12px; margin-left: 15px; margin-bottom: 10px;" />
-
 ```bash
 $ neofetch --ascii_distro arch --override
   OS: Linux (Dark Kernel)
-  Host: U4T3-BLNK
+  Host: generic
   Uptime: Infinite
   Focus: Modern Web & System Internals
   Languages: JavaScript, TypeScript, HTML5, CSS3, Bash
@@ -36,7 +34,7 @@ $ neofetch --ascii_distro arch --override
 
 [![Linux](https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=white&borderColor=222222)](https://kernel.org)
 [![Git](https://img.shields.io/badge/VCS-Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-U4T3--BLNK-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/U4T3-BLNK)
+[![GitHub](https://img.shields.io/badge/GitHub-generic-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/U4T3-BLNK)
 
 </div>
 
@@ -79,5 +77,5 @@ $ neofetch --ascii_distro arch --override
 <br/>
 
 <div align="center">
-  <sub>U4T3-BLNK • Encrypted System • All commits accounted for</sub>
+  <sub>generic • Encrypted System • All commits accounted for</sub>
 </div>
