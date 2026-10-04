@@ -8,6 +8,8 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2&section=header" width="100%"/>
 </p>
 
+<img align="right" alt="U4T3-BLNK" width="220px" src="https://raw.githubusercontent.com/U4T3-BLNK/U4T3-BLNK/main/assets/avatar.png" style="border-radius: 12px; margin-left: 15px; margin-bottom: 10px;" />
+
 ```bash
 $ neofetch --ascii_distro arch --override
   OS: Linux (Dark Kernel)
@@ -30,7 +32,7 @@ $ neofetch --ascii_distro arch --override
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 [![Linux](https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=white&borderColor=222222)](https://kernel.org)
 [![Git](https://img.shields.io/badge/VCS-Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
